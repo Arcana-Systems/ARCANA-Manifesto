@@ -125,6 +125,64 @@ Prediction prevents collapse.
 
 Clone the repository:
 
+git clone https://github.com/Arcana-Systems/ARCANA-Manifesto.git
+
+Code
+
+Install the ARCANA module:
+
+Import-Module C:\ARCANA\ARCANA.psm1 -Force
+
+Code
+
+## Usage
+
+Validate doctrine:
+
+Invoke-ARCANADoctrineCheck -Path ./manifesto
+
+Code
+
+Mint lineage:
+
+Invoke-ARCANAMint -Path ./manifesto
+
+Code
+
+Switch identity:
+
+Invoke-ARCANAIdentity -Role <role>
+
+Code
+
+## Repository Structure
+
+ARCANA-Manifesto/
+│
+├── manifesto/                # Sovereign doctrine (7 verified files)
+├── lineage/                  # EL artifacts (continuity chain)
+├── ARCANA.psm1               # Sovereign substrate module
+└── docs/                     # Constitutional documentation layer
+
+Code
+
+## Sovereign Guarantees
+
+ARCANA guarantees:
+
+- continuity of identity  
+- integrity of doctrine  
+- permanence of lineage  
+- autonomy of agents  
+- coherence of institutions  
+- stability of ecosystems  
+
+ARCANA is the sovereign OS for multi‑entity civilizations.
+
+## License
+
+ARCANA is released under a sovereign license defined by the A
+
 
 
 
