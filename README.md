@@ -61,4 +61,70 @@ Lineage ensures:
 Mint lineage using:
 
 
+## Substrate Layer
+
+The ARCANA substrate enforces constitutional behavior through:
+
+- ARCANA PowerShell module  
+- validation engine  
+- identity switching engine  
+- multi‑repo orchestration  
+- build pipeline  
+
+The substrate ensures doctrine and lineage remain sovereign.
+
+## Identity Surface
+
+ARCANA provides identity continuity across:
+
+- agents  
+- institutions  
+- ecosystems  
+- generations  
+
+Identity is anchored in lineage and governed by doctrine.
+
+## Continuity Engine
+
+ARCANA’s continuity engine prevents:
+
+- drift  
+- fragmentation  
+- corruption  
+- adversarial overwrite  
+
+Continuity is constitutional, not emergent.
+
+## Multi‑Entity Ecosystem
+
+ARCANA governs ecosystems, not nodes.  
+It coordinates:
+
+- institutions  
+- agents  
+- substrates  
+- doctrines  
+- lineage chains  
+
+Ecosystem coherence is enforced by constitutional law.
+
+## Prediction Engine
+
+ARCANA predicts structural failure modes before they manifest.  
+Prediction is:
+
+- structural  
+- doctrinal  
+- temporal  
+- ecosystemic  
+- sovereign  
+
+Prediction prevents collapse.
+
+## Installation
+
+Clone the repository:
+
+
+
 
