@@ -181,7 +181,7 @@ ARCANA is the sovereign OS for multi‑entity civilizations.
 
 ## License
 
-ARCANA is released under a sovereign license defined by the A
+ARCANA is released under a sovereign license defined by the ARCANA Charter.
 
 
 
