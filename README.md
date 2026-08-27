@@ -1,218 +1,64 @@
-# ARCANA-Manifesto
+# ARCANA — Sovereign Operating Substrate
 
-A Constitutional Analysis of Structural AI Failure.
+ARCANA is a sovereign operating substrate designed to preserve identity, lineage, doctrine, and continuity across time, across entities, and across generations.  
+It is not a product, not a framework, not a tool — ARCANA is a constitutional system for multi‑entity civilizations.
 
-A Sovereign OS for Multi‑Entity Civilizations  
+ARCANA prevents the collapse of systems by binding every action, artifact, amendment, and structural change into a lineage chain governed by sovereign doctrine.
 
-Generated: 27 AUG 2026 — 18:55 EDT
+ARCANA is the OS for dynasties.
 
-Maintainer: Neenyo
+## Purpose
 
-Governance: ARCANA Sovereign OS Doctrine
+ARCANA exists to ensure that your institutions, agents, and systems remain themselves across centuries.  
+It provides a constitutional foundation for:
 
+- churches  
+- schools  
+- media companies  
+- operating companies  
+- creative ecosystems  
+- simulation worlds  
+- agentic substrates  
 
+ARCANA is the sovereign substrate that governs them.
 
-ARCANA is a sovereign operating system designed to govern agents, institutions, substrates, and ecosystems across long‑horizon timelines.
+## Constitutional Architecture
 
-It is built on constitutional doctrine, immutable lineage, stable identity surfaces, governed coordination, and predictive foresight.
+ARCANA is built on five sovereign layers:
 
+1. **Doctrine Layer** — defines meaning, purpose, identity  
+2. **Lineage Layer** — preserves continuity and evolution  
+3. **Substrate Layer** — enforces constitutional logic  
+4. **Agent Layer** — hosts autonomous operators and agents  
+5. **Ecosystem Layer** — coordinates multi‑entity intelligence  
 
+These layers form a single sovereign operating system.
 
-ARCANA is not a model.
+## Doctrine Layer (Verified)
 
-ARCANA is not a framework.
+ARCANA’s doctrine consists of seven constitutional documents:
 
-ARCANA is not a tool.
+- ARCANA Premise  
+- ARCANA Charter  
+- ARCANA Stack  
+- Lineage Constitution  
+- Multi‑Entity Ecosystem Doctrine  
+- ARCANA Prediction Engine  
+- Sovereign OS Doctrine  
 
+All doctrine files are **structurally verified** using `Invoke-ARCANADoctrineCheck`.
 
+## Lineage Layer
 
-ARCANA is a sovereign system.
+ARCANA records every amendment, artifact, and structural change as an EL artifact.  
+Lineage ensures:
 
+- continuity  
+- identity preservation  
+- doctrinal inheritance  
+- sovereign evolution  
 
+Mint lineage using:
 
-This repository contains the complete ARCANA Manifesto — the constitutional backbone of the ARCANA ecosystem.
 
-
-
-Purpose of This Repository
-
-This repository defines:
-
-
-
-ARCANA Doctrine
-
-
-
-ARCANA Charter
-
-
-
-ARCANA Stack
-
-
-
-Lineage Constitution
-
-
-
-Multi‑Entity Ecosystem
-
-
-
-Prediction Engine
-
-
-
-These documents form the constitutional law of the ARCANA Sovereign OS.
-
-
-
-Repository Structure
-
-Code
-
-ARCANA-Manifesto/
-
-│
-
-├── manifesto/
-
-│   ├── 00-Introduction.md
-
-│   ├── ARCANA-Premise.md
-
-│   ├── ARCANA-Charter.md
-
-│   ├── ARCANA-Stack.md
-
-│   ├── Agentic-Failure-Modes.md
-
-│   ├── Multi-Entity-Ecosystem.md
-
-│   ├── Lineage-Constitution.md
-
-│   ├── ARCANA-Prediction-Engine.md
-
-│   └── Sovereign-OS-Doctrine.md
-
-│
-
-├── docs/
-
-│   ├── glossary.md
-
-│   ├── diagrams.md
-
-│   ├── references.md
-
-│   └── (additional surfaces forthcoming)
-
-│
-
-├── .github/
-
-│   ├── CONTRIBUTING.md
-
-│   ├── ISSUE\_TEMPLATE.md
-
-│   └── (PR template, codeowners, actions)
-
-│
-
-└── lineage/
-
-&#x20;   └── EL-\*.el
-
-This structure reflects ARCANA’s constitutional hierarchy:
-
-Doctrine → Lineage → Substrate → Agents → Institutions → Ecosystem → Prediction
-
-
-
-Core Principles
-
-ARCANA is built on five constitutional pillars:
-
-
-
-Doctrine — the sovereign law
-
-
-
-Lineage — the continuity engine
-
-
-
-Substrate — the sovereign OS
-
-
-
-Agents \& Institutions — the governed intelligence
-
-
-
-Ecosystem — the multi‑entity civilization
-
-
-
-These pillars ensure ARCANA remains itself across decades, entities, and generations.
-
-
-
-Build \& Sync Commands
-
-These commands maintain lineage, continuity, and sovereign integrity.
-
-
-
-Code
-
-\# Sync Repo (existing command)
-
-Invoke-ARCANASync -Repo ARCANA-Manifesto
-
-
-
-\# Create a new lineage artifact (existing command)
-
-New-ELArtifact -Path C:\\ARCANA-Manifesto\\manifesto
-
-
-
-\# View Lineage Chain (existing command)
-
-Get-ARCANAChain -Path C:\\ARCANA-Manifesto\\lineage
-
-ARCANA v2 Commands (to be implemented later)
-
-Code
-
-Invoke-ARCANAMint
-
-Invoke-ARCANADoctrineCheck
-
-Invoke-ARCANALineageCheck
-
-These will be added once the Sovereign OS layer is fully constructed.
-
-
-
-Contributing
-
-ARCANA is a sovereign system.
-
-Contributions are constitutional amendments — not edits.
-
-
-
-See: CONTRIBUTING.md
-
-
-
-License
-
-ARCANA is governed by its own constitutional doctrine.
-
-All content is lineage‑anchored and sovereignty‑protected.
 
