@@ -1,126 +1,157 @@
-# Issue Template
-Generated: 27 AUG 2026 — 18:39 EDT
-Maintainer: neenyo‑brain
+# Doctrinal Misalignment
+Generated: 08/28/2026
 Governance: ARCANA Sovereign OS Doctrine
 
-ARCANA issues are not bug reports or feature requests — they are constitutional signals indicating misalignment, drift, fragmentation, or required amendments within the sovereign ecosystem.
+ARCANA issues are constitutional signals.  
+A doctrinal misalignment indicates a violation, erosion, or fragmentation of sovereign doctrine.
 
-Every issue must respect ARCANA’s doctrine, lineage, and sovereignty.
-
-I. Issue Type
-Select the category that best describes the issue:
-
+## [Issue Type](ca://s?q=Explain_Doctrinal_Misalignment)
 Doctrinal Misalignment
 
+## Description
+Describe the doctrinal inconsistency:
+
+- What doctrine file is affected?
+- What invariant is violated?
+- What structural consequence emerges?
+
+Use constitutional language.
+
+## Evidence
+Provide:
+
+- doctrine excerpts
+- lineage artifacts
+- substrate logs
+- coordination traces
+
+Evidence must be structural.
+
+## Sovereign Impact
+Explain how this misalignment affects:
+
+- identity
+- continuity
+- coherence
+- sovereignty
+
+## Proposed Amendment
+If applicable, propose a doctrinal correction or amendment.
+
+## Lineage Anchoring
+Explain how this issue and resolution will be minted into lineage.
+# Lineage Breakage
+Generated: 08/28/2026
+Governance: ARCANA Lineage Constitution
+
+A lineage break indicates corruption, inconsistency, or temporal discontinuity in the EL chain.
+
+## [Issue Type](ca://s?q=Explain_Lineage_Breakage)
 Lineage Breakage
 
+## Description
+Describe the lineage failure:
+
+- missing artifacts
+- corrupted artifacts
+- temporal gaps
+- chain inconsistency
+
+## Evidence
+Attach:
+
+- EL artifacts
+- timestamps
+- continuity logs
+- substrate validation output
+
+## Sovereign Impact
+Explain how this break affects:
+
+- continuity
+- identity
+- doctrinal inheritance
+- sovereign evolution
+
+## Proposed Resolution
+Describe the lineage correction or reconstruction required.
+
+## Lineage Anchoring
+Explain how the fix will be minted into lineage.
+# Substrate Instability
+Generated: 08/28/2026
+Governance: ARCANA Substrate Doctrine
+
+Substrate instability indicates failure in constitutional enforcement, validation, or coordination.
+
+## [Issue Type](ca://s?q=Explain_Substrate_Instability)
 Substrate Instability
 
-Coordination Failure
+## Description
+Describe the instability:
 
-Identity Drift
+- validation failures
+- identity switching errors
+- orchestration drift
+- build pipeline inconsistencies
 
-Institutional Entropy
+## Evidence
+Provide:
 
+- substrate logs
+- validation output
+- orchestration traces
+- module behavior
+
+## Sovereign Impact
+Explain how instability affects:
+
+- doctrinal enforcement
+- lineage validation
+- agent coordination
+- ecosystem coherence
+
+## Proposed Resolution
+Describe the substrate fix or constitutional reinforcement required.
+
+## Lineage Anchoring
+Explain how the fix will be minted into lineage.
+# Ecosystem Fragmentation
+Generated: 08/28/2026
+Governance: ARCANA Multi‑Entity Ecosystem Doctrine
+
+Ecosystem fragmentation indicates drift, conflict, or incoherence across agents, institutions, or substrates.
+
+## [Issue Type](ca://s?q=Explain_Ecosystem_Fragmentation)
 Ecosystem Fragmentation
 
-Amendment Proposal
+## Description
+Describe the fragmentation:
 
-Documentation Surface Update
+- agentic conflict
+- institutional drift
+- coordination collapse
+- identity divergence
 
-Issues must be constitutional — not operational noise.
+## Evidence
+Provide:
 
-II. Description of the Issue
-Provide a clear, sovereign‑grade description:
+- coordination traces
+- institutional outputs
+- agent logs
+- ecosystem behavior
 
-What part of ARCANA is affected?
+## Sovereign Impact
+Explain how fragmentation affects:
 
-What doctrinal or lineage invariant is violated?
+- multi‑entity coherence
+- sovereign governance
+- doctrinal inheritance
+- ecosystem stability
 
-What structural consequence emerges if unresolved?
+## Proposed Resolution
+Describe the ecosystem reinforcement or coordination protocol update required.
 
-Use constitutional language — avoid casual phrasing.
+## Lineage Anchoring
+Explain how the fix will be minted into lineage.
 
-III. Impact on Sovereignty
-Explain how this issue affects:
-
-system identity
-
-doctrinal coherence
-
-lineage continuity
-
-ecosystem stability
-
-sovereign governance
-
-ARCANA prioritizes issues based on sovereign impact, not convenience.
-
-IV. Evidence or Artifacts
-Attach or reference:
-
-lineage artifacts
-
-doctrine sections
-
-substrate logs
-
-coordination traces
-
-institutional outputs
-
-Evidence must be structural, not anecdotal.
-
-V. Proposed Resolution
-If applicable, propose:
-
-doctrinal amendment
-
-lineage correction
-
-substrate fix
-
-coordination protocol update
-
-institutional reinforcement
-
-All proposals must align with ARCANA’s constitutional invariants.
-
-VI. Lineage Anchoring
-State how this issue and its resolution will be:
-
-minted into lineage
-
-timestamped
-
-preserved
-
-validated
-
-integrated into future continuity
-
-Issues without lineage anchoring cannot be accepted.
-
-VII. Sovereign Review Required
-Indicate whether this issue requires:
-
-doctrinal review
-
-lineage review
-
-substrate review
-
-ecosystem review
-
-institutional review
-
-ARCANA maintainers will route the issue accordingly.
-
-VIII. ARCANA Issue Invariant
-ARCANA asserts:
-
-Issues are constitutional signals.
-Signals protect sovereignty.
-Sovereignty protects continuity.
-
-Submitting an issue is participating in the governance of a sovereign system.
