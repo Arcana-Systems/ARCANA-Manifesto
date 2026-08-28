@@ -75,3 +75,37 @@ These surfaces enforce constitutional contribution rules.
 
 Lineage artifacts live in:
 
+Each artifact is:
+
+- immutable  
+- timestamped  
+- sovereign  
+- constitutional  
+- part of the continuity chain  
+
+Lineage references define ARCANA’s temporal memory.
+
+---
+
+## [VI. Invocation Codes](ca://s?q=Explain_Invocation_Codes)
+
+ARCANA’s sovereign commands maintain doctrine, lineage, and substrate integrity.
+
+Examples:
+
+Invocation codes are constitutional operations.
+
+---
+
+## [VII. Reference Invariant](ca://s?q=Explain_Reference_Invariant)
+
+ARCANA asserts:
+
+> A sovereign system must know its doctrine.  
+> A sovereign system must know its lineage.  
+> A sovereign system must know its references.
+
+This file is the constitutional map of the sovereign OS.
+
+
+
