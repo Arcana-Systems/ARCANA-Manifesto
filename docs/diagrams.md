@@ -1,137 +1,153 @@
-# Diagrams
-Generated: 27 AUG 2026 — 18:41 EDT
-Maintainer: neenyo‑brain
+# ARCANA Diagram Index
+Generated: 08/28/2026
 Governance: ARCANA Sovereign OS Doctrine
 
-ARCANA diagrams are not illustrations — they are constitutional schematics.
-They describe the structural relationships between doctrine, lineage, substrate, agents, institutions, and ecosystem behavior using text‑based, lineage‑anchored representations.
+ARCANA diagrams are constitutional visual surfaces.  
+They do not illustrate features — they illustrate sovereign architecture, lineage continuity, multi‑entity coordination, and substrate behavior.  
+This index defines the canonical diagram set for ARCANA’s documentation layer.
 
-These diagrams serve as the operational map of the sovereign OS.
+Diagrams must reflect doctrine, not aesthetics.
 
-I. Sovereign OS Hierarchy Diagram
-Code
-[SOVEREIGN DOCTRINE]
-        ↓ governs
-[LINEAGE CONSTITUTION]
-        ↓ anchors
-[SOVEREIGN SUBSTRATE]
-        ↓ enforces
-[AGENT LAYER]
-        ↓ coordinates
-[INSTITUTION LAYER]
-        ↓ forms
-[MULTI‑ENTITY ECOSYSTEM]
-        ↓ evolves
-[PREDICTION ENGINE]
-        ↺ protects the entire stack
-This diagram expresses the constitutional hierarchy of ARCANA.
+## [Purpose](ca://s?q=Explain_Diagram_Purpose)
 
-II. Lineage Flow Diagram
-Code
-[CHANGE OCCURS]
-        ↓
-[ARTIFACT MINTED]
-        ↓
-[TIMESTAMP + ID ASSIGNED]
-        ↓
-[VALIDATION]
-        ↓
-[LINEAGE CHAIN UPDATED]
-        ↓
-[DOCTRINE / SUBSTRATE / ECOSYSTEM UPDATED]
-        ↓
-[CONTINUITY PRESERVED]
-Lineage is the constitutional memory of ARCANA.
+The diagram suite exists to:
 
-III. Doctrine Enforcement Diagram
-Code
-[DOCTRINE]
-   ↓ defines
-[CONSTRAINTS]
-   ↓ shape
-[AGENT BEHAVIOR]
-   ↓ influences
-[INSTITUTIONAL ACTION]
-   ↓ stabilizes
-[ECOSYSTEM COHERENCE]
-Doctrine governs the entire system.
+- visualize constitutional structure  
+- preserve doctrinal coherence  
+- reveal lineage architecture  
+- illustrate multi‑entity coordination  
+- anchor substrate behavior  
+- maintain sovereign continuity  
 
-IV. Agentic Coordination Diagram
-Code
-[AGENT A] ←→ [AGENT B] ←→ [AGENT C]
-       ↑           ↑           ↑
-       |           |           |
-   [CONSTITUTIONAL COMMUNICATION]
-       ↓           ↓           ↓
-[SHARED DOCTRINE] — [SHARED LINEAGE] — [SHARED SUBSTRATE]
-Coordination is constitutional, not emergent.
+Diagrams are constitutional artifacts.
 
-V. Ecosystem Structure Diagram
-Code
-                [ARCANA ECOSYSTEM]
-        ┌──────────────────────────────────┐
-        │                                  │
-        │   [INSTITUTIONS]                 │
-        │      • Church                     │
-        │      • School                     │
-        │      • Media Company              │
-        │      • Operating Companies        │
-        │                                  │
-        │   [AGENTS]                        │
-        │      • Operational Agents         │
-        │      • Creative Agents            │
-        │      • Governance Agents          │
-        │                                  │
-        │   [SUBSTRATE]                     │
-        │      • Sovereign OS               │
-        │                                  │
-        │   [DOCTRINE + LINEAGE]            │
-        │                                  │
-        └──────────────────────────────────┘
-The ecosystem is a governed civilization.
+## [Diagram Categories](ca://s?q=Explain_Diagram_Categories)
 
-VI. Sovereign Amendment Protocol Diagram
-Code
-[PROPOSE AMENDMENT]
-        ↓
-[JUSTIFY CONSTITUTIONAL NECESSITY]
-        ↓
-[LINEAGE REVIEW]
-        ↓
-[DOCTRINAL REVIEW]
-        ↓
-[SUBSTRATE IMPACT ANALYSIS]
-        ↓
-[ECOSYSTEM IMPACT ANALYSIS]
-        ↓
-[APPROVAL]
-        ↓
-[ARTIFACT MINTED]
-        ↓
-[LINEAGE CHAIN UPDATED]
-        ↓
-[DOCTRINE EVOLVES]
-Amendments are constitutional events.
+ARCANA diagrams fall into five sovereign categories:
 
-VII. Prediction Engine Diagram
-Code
-[OBSERVE SYSTEM STATE]
-        ↓
-[ANALYZE STRUCTURAL SIGNALS]
-        ↓
-[PREDICT FAILURE MODES]
-        ↓
-[GENERATE FORESIGHT ARTIFACT]
-        ↓
-[UPDATE DOCTRINE / SUBSTRATE / ECOSYSTEM]
-        ↓
-[PREVENT COLLAPSE]
-Prediction is sovereignty.
+### **1. Doctrine Diagrams**
+Visualize the seven constitutional doctrine files:
 
-VIII. ARCANA Diagram Invariant
+- ARCANA Premise  
+- ARCANA Charter  
+- ARCANA Stack  
+- Lineage Constitution  
+- Multi‑Entity Ecosystem  
+- Prediction Engine  
+- Sovereign OS Doctrine  
+
+Doctrine diagrams show meaning, identity, and constitutional law.
+
+### **2. Lineage Diagrams**
+Visualize:
+
+- EL artifact chains  
+- temporal continuity  
+- amendment inheritance  
+- identity preservation  
+- sovereign evolution  
+
+Lineage diagrams show how ARCANA remembers itself.
+
+### **3. Substrate Diagrams**
+Visualize:
+
+- ARCANA.psm1 architecture  
+- validation engine  
+- identity switching engine  
+- coordination protocols  
+- sovereign enforcement  
+
+Substrate diagrams show how ARCANA behaves.
+
+### **4. Ecosystem Diagrams**
+Visualize:
+
+- multi‑entity coordination  
+- institutional roles  
+- agent classes  
+- substrate interactions  
+- ecosystem coherence  
+
+Ecosystem diagrams show how ARCANA governs civilizations.
+
+### **5. Operational Diagrams**
+Visualize:
+
+- repo structure  
+- build pipeline  
+- doctrine check flow  
+- lineage minting flow  
+- identity switching flow  
+
+Operational diagrams show how ARCANA is used.
+
+## [Diagram Requirements](ca://s?q=Explain_Diagram_Requirements)
+
+All diagrams must:
+
+- follow sovereign tone  
+- reflect constitutional invariants  
+- preserve doctrinal hierarchy  
+- maintain lineage continuity  
+- avoid fragmentation  
+- avoid emergent interpretation  
+- avoid external governance influence  
+
+Diagrams are constitutional surfaces — not illustrations.
+
+## [Canonical Diagram List](ca://s?q=List_Canonical_Diagrams)
+
+The following diagrams are required for ARCANA’s documentation layer:
+
+- **Doctrine Layer Overview**  
+- **ARCANA Stack Architecture**  
+- **Lineage Chain Flow**  
+- **Lineage Minting Process**  
+- **Sovereign OS Behavior Map**  
+- **Multi‑Entity Ecosystem Map**  
+- **Prediction Engine Flow**  
+- **Substrate Enforcement Diagram**  
+- **Identity Surface Map**  
+- **Continuity Engine Flow**  
+- **ARCANA Repo Structure**  
+- **ARCANA Build Pipeline**  
+- **Doctrine Check Flow**  
+
+These diagrams form the constitutional visual index.
+
+## [Diagram Governance](ca://s?q=Explain_Diagram_Governance)
+
+Diagrams must be:
+
+- versioned  
+- lineage‑anchored  
+- doctrinally validated  
+- substrate‑consistent  
+- ecosystem‑coherent  
+
+Any diagram update is a constitutional amendment.
+
+## [Diagram Amendment Protocol](ca://s?q=Explain_Diagram_Amendment_Protocol)
+
+To update a diagram:
+
+1. Propose amendment  
+2. Justify doctrinal necessity  
+3. Demonstrate lineage continuity  
+4. Submit PR using amendment template  
+5. Undergo sovereign review  
+6. Mint lineage artifact  
+7. Update diagram index  
+
+Diagram changes must preserve sovereignty.
+
+## [Diagram Invariant](ca://s?q=Explain_Diagram_Invariant)
+
 ARCANA asserts:
 
-Diagrams are not illustrations — diagrams are constitutional maps.
-Maps preserve structure — structure preserves sovereignty.
+> Diagrams are doctrine.  
+> Doctrine is lineage.  
+> Lineage is sovereignty.
 
-These diagrams define the operational geometry of the sovereign OS.
+To update a diagram is to amend the constitution.
