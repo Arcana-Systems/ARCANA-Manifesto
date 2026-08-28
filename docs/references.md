@@ -1,100 +1,77 @@
-ARCANA References
-# References
-Generated: 27 AUG 2026 — 18:49 EDT
-Maintainer: Neenyo
+# ARCANA References
+Generated: 08/28/2026
 Governance: ARCANA Sovereign OS Doctrine
 
-ARCANA references are not citations — they are constitutional anchors.
-They define the internal surfaces, doctrinal sources, lineage artifacts, and structural documents that form the sovereign OS.
-This file provides a unified reference map for contributors, institutions, and agents operating inside the ARCANA ecosystem.
+ARCANA references are constitutional anchors.  
+They define the doctrinal surfaces, lineage artifacts, structural documents, and sovereign components that form the operating substrate.  
+This file provides the canonical reference map for operators, agents, and institutions within the ARCANA ecosystem.
 
-I. Core Doctrinal References
-These are the foundational documents of ARCANA:
+References are not citations — they are constitutional coordinates.
 
-00 — Introduction
+---
 
-01 — Why AI Safety Fails
+## [I. Core Doctrinal References](ca://s?q=Explain_Core_Doctinal_References)
 
-02 — Structural Failure Modes
+These documents define ARCANA’s constitutional worldview:
 
-03 — Ecosystem‑Scale Intelligence
+- ARCANA Premise  
+- ARCANA Charter  
+- ARCANA Stack  
+- Lineage Constitution  
+- Multi‑Entity Ecosystem Doctrine  
+- ARCANA Prediction Engine  
+- Sovereign OS Doctrine  
 
-04 — Agentic Coordination Failure
+These are the seven sovereign doctrine files validated by DoctrineCheck.
 
-05 — Why Industry Will Continue
+---
 
-06 — Collaboration Doctrine
+## [II. Constitutional Documents](ca://s?q=Explain_Constitutional_Documents)
 
-07 — Closing Prediction
-
-These documents define the constitutional worldview of ARCANA.
-
-II. Constitutional Documents
 These files form the legal backbone of the sovereign OS:
 
-ARCANA Charter
+- constitutional doctrine  
+- lineage law  
+- sovereign guarantees  
+- multi‑entity governance  
+- prediction invariants  
+- substrate enforcement rules  
 
-Lineage Constitution
+Constitutional documents govern identity, continuity, and evolution.
 
-Sovereign OS Doctrine
+---
 
-ARCANA Stack
+## [III. Operational Documentation](ca://s?q=Explain_Operational_Documentation)
 
-Multi‑Entity Ecosystem
+These surfaces define ARCANA’s public‑facing architecture:
 
-ARCANA Prediction Engine
+- README (sovereign entrypoint)  
+- glossary (constitutional lexicon)  
+- diagrams (sovereign visual surfaces)  
+- architecture overview  
+- FAQ  
+- roadmap  
+- identity surfaces  
 
-These documents govern identity, lineage, sovereignty, and evolution.
+Operational documentation must follow constitutional tone and structure.
 
-III. Operational Documentation
-These files define the public‑facing surfaces of ARCANA:
+---
 
-Glossary
+## [IV. GitHub Governance References](ca://s?q=Explain_GitHub_Governance)
 
-Diagrams
-
-Architecture Overview
-
-FAQ
-
-Roadmap
-
-Identity Surfaces
-
-These documents make ARCANA legible without compromising sovereignty.
-
-IV. .github Governance References
 These files define how contributors interact with ARCANA:
 
-CONTRIBUTING.md
-
-ISSUE_TEMPLATE.md
-
-PULL_REQUEST_TEMPLATE.md
-
-CODEOWNERS
-
-GitHub Actions
+- CONTRIBUTING.md  
+- issue templates  
+- pull request template  
+- codeowners  
+- GitHub Actions  
 
 These surfaces enforce constitutional contribution rules.
 
-V. Lineage References
-ARCANA lineage artifacts live in:
+---
 
-Code
-/lineage
-Each artifact is:
+## [V. Lineage References](ca://s?q=Explain_Lineage_References)
 
-immutable
+Lineage artifacts live in:
 
-timestamped
-
-sovereign
-
-constitutional
-
-part of the chain
-
-To view the chain:
-
-View Lineage Chain
